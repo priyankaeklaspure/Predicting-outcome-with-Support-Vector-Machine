@@ -1,1 +1,1 @@
-# Predicting-outcome-with-Support-Vector-Machine
+# Predicting_outcome_with_Support_Vector_Machine
